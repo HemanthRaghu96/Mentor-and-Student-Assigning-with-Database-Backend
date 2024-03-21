@@ -8,7 +8,7 @@ https://mentor-and-student-assigning-with-52r8.onrender.com/changeMentor to Assi
 https://mentor-and-student-assigning-with-52r8.onrender.com/students/1 to show all students for a particular mentor. \
 https://mentor-and-student-assigning-with-52r8.onrender.com/students/mentor/3 to show the previously assigned mentor for a particular student. 
 
-Backend Server link : https://mentor-and-student-assigning-with-52r8.onrender.com/ \
+Backend Server link : https://mentor-and-student-assigning-with-jklz.onrender.com/ \
 API documentation : https://documenter.getpostman.com/view/32014275/2sA2xpU9u3
 
 This project is open scorce, 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩
